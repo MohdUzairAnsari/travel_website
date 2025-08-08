@@ -20,5 +20,10 @@ A modern, responsive **Travel Website** built using HTML, CSS. This website offe
 ## 🚀 Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox, Grid, Media Queries)  
+- CSS3 (Flexbox, Grid, Media Queries)
+
+
+## 🖥️ Live Preview
+
+🔗 [Live Demo](https://mohduzairansari.github.io/travel_website/) 
 
